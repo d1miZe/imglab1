@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TSOS_LAB1_Final
+namespace FormApp
 {
     static class Program
     {

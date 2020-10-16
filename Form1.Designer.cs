@@ -1,4 +1,4 @@
-﻿namespace TSOS_LAB1_Final
+﻿namespace FormApp
 {
     partial class Form1
     {
